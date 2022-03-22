@@ -1,4 +1,4 @@
-# Web-scraping-project
+# Bot-Wiki
 Projeto para extrair dados de um site e agrupá-los em um dataset
 
 Precisava juntar dados sobre perfis automatizados no twitter para um outro projeto(talvez eu poste ele aqui depois), então encontrei o site da [botwiki](https://botwiki.org) .
